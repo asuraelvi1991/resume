@@ -13,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -22,6 +22,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="3" selection-end-line="93" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,6 +56,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/README.md" />
+        <option value="$PROJECT_DIR$/static/js/script.js" />
       </list>
     </option>
   </component>
@@ -89,6 +100,17 @@
               <item name="cv-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="cv-template" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-template" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv-template" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,12 +239,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561288119704</updated>
-      <workItem from="1561288120979" duration="311000" />
+      <workItem from="1561288120979" duration="366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311000" />
+    <option name="totallyTimeSpent" value="366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="721" extended-state="0" />
@@ -274,6 +296,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="3" selection-end-line="93" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
